@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DJ_PLAYLISTS Version="1.0.0">
+  <PRODUCT Name="rekordbox" Version="4.5.0" Company="Pioneer DJ"/>
+  <COLLECTION Entries="3">
+    <TRACK TrackID="3315" Name="Sing Me to Sleep" Artist="Alan Walker" Composer=""
+           Album="Sing Me to Sleep" Grouping="" Genre="" Kind="Fichier MP3"
+           Size="7799183" TotalTime="189" DiscNumber="1" TrackNumber="1"
+           Year="2016" AverageBpm="88.00" DateAdded="2017-09-17" BitRate="320"
+           SampleRate="44100" Comments="" PlayCount="0" Rating="0" Location="file://localhost/C:/Users/Thibault/Music/Posey/Alan%20Walker%20-%20Sing%20Me%20to%20Sleep.mp3"
+           Remixer="" Tonality="" Label="" Mix="">
+      <TEMPO Inizio="0.324" Bpm="88.00" Metro="4/4" Battito="3"/>
+    </TRACK>
+    <TRACK TrackID="3317" Name="Save Me" Artist="DEAMN" Composer="" Album="Save Me"
+           Grouping="" Genre="" Kind="Fichier MP3" Size="7470934" TotalTime="184"
+           DiscNumber="1" TrackNumber="1" Year="2017" AverageBpm="122.00"
+           DateAdded="2017-09-17" BitRate="320" SampleRate="44100" Comments=""
+           PlayCount="0" Rating="0" Location="file://localhost/C:/Users/Thibault/Music/Interm%c3%a9diaire/DEAMN%20-%20Save%20Me.mp3"
+           Remixer="" Tonality="" Label="" Mix="">
+      <TEMPO Inizio="0.025" Bpm="122.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="3318" Name="Bad Ideas" Artist="Alle Farben" Composer=""
+           Album="Music Is My Best Friend" Grouping="" Genre="" Kind="Fichier MP3"
+           Size="6754310" TotalTime="166" DiscNumber="1" TrackNumber="3"
+           Year="2016" AverageBpm="120.00" DateAdded="2017-09-17" BitRate="320"
+           SampleRate="44100" Comments="" PlayCount="0" Rating="0" Location="file://localhost/C:/Users/Thibault/Music/Posey/Alle%20Farben%20-%20Bad%20Ideas.mp3"
+           Remixer="" Tonality="" Label="" Mix="">
+      <TEMPO Inizio="0.385" Bpm="120.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+  </COLLECTION>
+  <PLAYLISTS>
+    <NODE Type="0" Name="ROOT" Count="1">
+      <NODE Name="Petite liste" Type="1" KeyType="0" Entries="2">
+        <TRACK Key="3315"/>
+        <TRACK Key="3318"/>
+      </NODE>
+    </NODE>
+  </PLAYLISTS>
+</DJ_PLAYLISTS>
