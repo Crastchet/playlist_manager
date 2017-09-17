@@ -26,7 +26,7 @@ public class MyXMLHandler extends DefaultHandler {
             throws SAXException {
 
         System.out.println("---------------------------------------------");
-        //cette variable contient le nom du nœud qui a créé l'événement
+        // cette variable contient le nom du nœud qui a créé l'événement
         System.out.println("qname = " + qname);
         node = qname;
 
